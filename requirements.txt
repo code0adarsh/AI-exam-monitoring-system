@@ -1,0 +1,8 @@
+opencv-python
+dlib
+mediapipe
+numpy
+torch
+transformers
+Pillow
+imutils
