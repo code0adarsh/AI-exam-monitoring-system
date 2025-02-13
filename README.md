@@ -1,4 +1,4 @@
-# AI Exam Proctor using Camera Detection
+# AI Exam Proctor using computer vision and deep learning
 
 An advanced exam monitoring system that integrates face and neck movement detection with object recognition (e.g., detecting phones, laptops, etc.) using dlib, Mediapipe, and Hugging Face’s DETR model. This project is designed to help ensure exam integrity by flagging unauthorized objects and suspicious head/neck movements.
 
